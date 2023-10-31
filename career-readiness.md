@@ -8,15 +8,15 @@ Creating a technical portfolio website is a big undertaking. Portfolios are almo
 
 Wire frames are used to outline the basic structure of your site. Wire frames should be vague enough to give you flexibility in your development process but structured enough to ensure all appropriate elements are present. 
 
-Submit the link to your wire frames:
+Submit the link to your wire frames: https://www.figma.com/file/G3OBH0QKplDhUZNDTe2hlS/Figma-basics?type=design&node-id=505%3A12&mode=design&t=ZTXRPcLFSxGuUYk9-1
 
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url:https://www.linkedin.com/in/oscar-troncoso/
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, projects you created, sharing a project you created, wire frames, or portfolios.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
-- [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
+- [X] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, projects you created, sharing a project you created, wire frames, or portfolios.
+- [X] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
+- [X] react (like, celebrate, comment, etc) to ten posts from your existing connections.
